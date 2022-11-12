@@ -1,0 +1,29 @@
+.tech{
+    color: green;
+    
+    padding: 0 200px ;
+    line-height: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.impt{
+    color: red;
+    padding: 0 200px;
+    line-height: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+
+}
+
+.differn{
+    color: blue;
+    padding: 0 200px;
+    line-height: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    
+}
